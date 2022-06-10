@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+.container-textos{
+    background-color: hsl(244, 38%, 16%);
+}
+.container-textos h1{
+    color: hsl(0, 0%, 100%);
+}
+.container-textos h1 strong{
+    color: hsl(277, 64%, 61%);
+}
+.container-textos p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.container-textos h3{
+    color: hsl(0, 0%, 100%);
+}
+.container-textos span{
+    color:hsla(0, 0%, 100%, 0.75) ;
+}
+.cor-sobre-a-imagem{
+    position: absolute;
+    background-color:hsl(277, 64%, 61%) ;
+    opacity: 0.3;
+    width: 540px;
+    height: 446px;
+}
