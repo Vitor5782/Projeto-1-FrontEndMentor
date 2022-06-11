@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Vitor5782/Projeto-1-FrontEndMentor](https://github.com/Vitor5782/Projeto-1-FrontEndMentor target="_blank")
-- Live Site URL: [https://vitor5782.github.io/Projeto-1-FrontEndMentor/](https://vitor5782.github.io/Projeto-1-FrontEndMentor/ target="_blank")
+- Solution URL: [https://github.com/Vitor5782/Projeto-1-FrontEndMentor](https://github.com/Vitor5782/Projeto-1-FrontEndMentor)
+- Live Site URL: [https://vitor5782.github.io/Projeto-1-FrontEndMentor/](https://vitor5782.github.io/Projeto-1-FrontEndMentor/)
 
 ## My process
 
