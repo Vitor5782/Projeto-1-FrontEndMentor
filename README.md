@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Vitor5782/Projeto-1-FrontEndMentor](https://github.com/Vitor5782/Projeto-1-FrontEndMentor)
-- Live Site URL: [https://vitor5782.github.io/Projeto-1-FrontEndMentor/](https://vitor5782.github.io/Projeto-1-FrontEndMentor/)
+- Solution URL: [https://github.com/Vitor5782/Projeto-1-FrontEndMentor](https://github.com/Vitor5782/Projeto-1-FrontEndMentor target="_blank")
+- Live Site URL: [https://vitor5782.github.io/Projeto-1-FrontEndMentor/](https://vitor5782.github.io/Projeto-1-FrontEndMentor/ target="_blank")
 
 ## My process
 
@@ -63,9 +63,9 @@ Ao construir meu css tive uma experiencia inovadora com o uso do 'FLEX' que me p
 ```
 ## Author
 
-- Website - [Vitor Hugo](https://www.your-site.com)
-- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782)
-- Facebook - [@vitorhugoteixeira](https://www.facebook.com/vitor.hugo.3591267)
+- Website - [Vitor Hugo]
+- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782 target="_blank")
+- Facebook - [@vitorhugoteixeira](https://www.facebook.com/vitor.hugo.3591267 target="_blank")
 
 ## Special Thanks
 -Gostaria de agradeçer especialmente ao Pablo, da equipe DEV EM DOBRO, pela ajuda na hora montar meu responsivo.
