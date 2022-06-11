@@ -1,10 +1,35 @@
-@media (max-width: 992px) {
-    *{
-        margin: 0;
-        padding: 0;
+@media (max-width: 9000px) {
+    body{
+       padding: 50px 20px 0px 20px;
     }
     section{
-        display: block;
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    .container-textos{
+        padding: 50px;
+        padding-bottom: 10px;
+        margin: 0px;
+        width: 335px;
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 15px;
+    }
+    .alinhando-ul li{
+        padding-left: 40px;
+        margin-bottom: 50px;
     }
 
+    .container-imagem img{
+        border-bottom-right-radius: 0px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        width: 335px;
+        height:270px;
+    }
+    .cor-sobre-a-imagem{
+        width: 335px;
+        height: 270px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
   }
