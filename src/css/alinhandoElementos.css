@@ -31,3 +31,12 @@ main section{
 .alinhando-ul li{
     margin-right: 50px;
 }
+.container-texto-rodape{
+    display: flexbox;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container-texto-rodape div{
+    display: inline-block;
+}

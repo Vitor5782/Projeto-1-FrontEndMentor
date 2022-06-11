@@ -28,3 +28,12 @@ body{
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+.container-texto-rodape{
+    color: hsl(0, 0%, 100%);
+}
+.container-texto-rodape a{
+    color: hsl(277, 64%, 61%);
+}
+.container-texto-rodape a:hover{
+    color: hsl(0, 0%, 100%);
+}
