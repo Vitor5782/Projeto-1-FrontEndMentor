@@ -12,9 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [SpecialThanks](#specialThanks)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [SpecialThanks](##Special-Thanks)
 
 ## Overview
 Neste desafio temos que fazer uso de html basico juntamente a css, alem de montar um responsivo para a pagina.
@@ -65,9 +63,9 @@ Ao construir meu css tive uma experiencia inovadora com o uso do 'FLEX' que me p
 ```
 ## Author
 
-- Website - [Vitor Hugo](https://www.your-site.com)
-- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782)
-- Facebook - [@vitorhugoteixeira](https://www.facebook.com/vitor.hugo.3591267)
+- Website - [Vitor Hugo]
+- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782 target="_blank")
+- Facebook - [@vitorhugoteixeira](https://www.facebook.com/vitor.hugo.3591267 target="_blank")
 
 ## Special Thanks
 -Gostaria de agradeçer especialmente ao Pablo, da equipe DEV EM DOBRO, pela ajuda na hora montar meu responsivo.
